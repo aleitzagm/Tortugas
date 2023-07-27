@@ -1,0 +1,33 @@
+body{
+    background-color: #f8eeed;
+    color: #070805;
+    font-family: 'Bacasime Antique', serif;
+
+}
+/*comentarios*/
+h3{
+    color:green
+}
+
+h1, p {
+    color:darkmagenta
+}
+
+.img1 { 
+width: 280px;
+    height: 180px;
+    border-style: ridge groove;
+}
+.img2 {
+    width: 220px;
+    height: 180px;
+    border-style: groove;
+    border-color: darkviolet;
+    border-width: thick;
+    padding: 30px;
+    margin-bottom: 25px;
+}
+
+small {
+    color:deeppink
+}
